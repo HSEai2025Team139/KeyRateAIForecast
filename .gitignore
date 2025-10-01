@@ -1,0 +1,121 @@
+# =========================
+# IntelliJ IDEA / PyCharm
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+gen/
+
+# Кэш и временные файлы IDE
+.cache/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python
+# =========================
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.venv/
+.env/
+virtualenv/
+
+# Byte-compiled / распакованные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Расширения Python C
+*.so
+
+# Дистрибуция
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
+htmlcov/
+
+# coverage
+.coverage
+.tox/
+.nox/
+
+# Sphinx
+docs/_build/
+
+# PyInstaller
+#  Usually these files are written in the build folder, but sometimes they're created in root.
+#  For more information: https://pyinstaller.org/en/stable/spec-files.html
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# pyenv
+#   For a tool like pyenv, you might want to ignore the .python-version file
+#   Only do so if you're sure every user has the same Python version.
+#.python-version
+
+# pycache
+__pycache__/
+
+# Logs
+logs
+*.log
+
+# Объектные файлы
+*.o
+*.ko
+*.obj
+*.ufo
+*.lo
+
+# Misc
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
