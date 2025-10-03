@@ -1,3 +1,20 @@
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Beautiful Soup](https://img.shields.io/badge/-Beautiful_Soup-1E407D?logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Requests](https://img.shields.io/badge/-Requests-FF9900?logo=requests&logoColor=white)](https://docs.python-requests.org/)
+[![CatBoost](https://img.shields.io/badge/-CatBoost-F491A3?logo=catboost&logoColor=white)](https://catboost.ai)
+[![Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)](https://airflow.apache.org)
+[![WordCloud](https://img.shields.io/badge/-WordCloud-4B72C8?logo=python&logoColor=white)](https://amueller.github.io/word_cloud/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Transformers](https://img.shields.io/badge/-Transformers-792EE5?logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![MLflow](https://img.shields.io/badge/-MLflow-00ACED?logo=mlflow&logoColor=white)](https://mlflow.org)
+[![DVC](https://img.shields.io/badge/-DVC-00A3E0?logo=data-version-control&logoColor=white)](https://dvc.org)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
 Классификатор пресс-релизов ЦБ с предсказанием будущей ключевой ставки
 
 ---
